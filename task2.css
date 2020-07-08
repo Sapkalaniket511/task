@@ -1,0 +1,310 @@
+@media only screen and (max-device-width:320px){
+    body{
+        
+        height: 400px;
+        width: 100%;
+    }
+    .header1{
+        position: fixed;
+        height: 10%;
+        width: 100%;
+        background: #162692;
+        top:0;
+        left: 0;
+      
+    }
+    #img1{
+        left: 180px;
+        height: 40px;
+        top: 5px;
+    }
+    #searcharea{
+        top: 15px;
+        left:130px;
+        height: 40px;
+    }
+    #searchbox{
+        top:17px;
+        position: absolute;
+        width: 560px;
+        height: 70px;
+        background: white;
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+    }
+    #chatarea{
+        top: 17px;
+        left:700px;
+        height: 100px;
+        
+    }
+    #profilearea{
+        top: 17px;
+        left:30px;
+        height: 35px;
+     
+    }
+    .post1{
+        top:110px;
+        left: 0px;
+        position: absolute;
+        width: 100%;
+        height: 900px;
+        background: white;
+        box-shadow:0 3px 8px rgba(0,0,0,.25);
+       box-sizing: border-box;
+    }
+    .post2{
+        top:2080px;
+        left: 0px;
+        position: absolute;
+        width: 100%;
+        height: 300px;
+        box-shadow:0 3px 8px rgba(0,0,0,.25);
+    }
+    .post{
+        top: 70px;
+        left:0px;
+        position: absolute;
+        width: 100%;
+        height: 210px;
+    
+    }
+    #column{
+        left:50px;
+        top: 40px;
+        width: 100%;
+        height: 200px;
+        border-radius: 3px/3px;
+        font-size: 25px;
+        color:black;
+        font-family: Verdana;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        margin-bottom: 10px black;
+        border-color: black;
+    }
+    .img2{
+        left: 20px;
+        top:20px;
+        position: absolute;
+    }
+    .newpost{
+        top: 170px;
+        left: 25px;
+        width: 560px;
+        position: absolute;
+        height: 370px;
+        border-radius: 3px/3px;
+        background: white;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        margin-bottom: 10px black;
+        border-bottom: black;
+        
+    }
+    .text{
+        top: 0px;
+        left:120px;
+        position: absolute;
+        width: 600px;
+        height: 210px;
+        font-size: 30px;
+    }
+    span {
+        display: inline-block;
+        width: 200px;
+        white-space: nowrap;
+        overflow: hidden !important;
+        text-overflow: ellipsis;
+    }
+    .text2{
+        top: 320px;
+        left:50px;
+        position: absolute;
+        width: 700px;
+        height: 210px;
+        font-size: 30px;
+        
+    }
+    .reshape {
+        top: 400px;
+        position: absolute;
+         width:800px;
+         height:250px;
+        left: 40px;  
+     
+    }
+    .ibottom{
+        top:650px;
+        position: absolute;
+        height: 70%;
+        width: 100%;
+        background: whitesmoke;
+        
+        left: 40px;
+    
+    }
+    #column2{
+        left:40px;
+        top: 640px;
+        width: 100%;
+        height: 200px;
+        border-radius: 3px/3px;
+        font-size: 25px;
+        color:black;
+        font-family: Verdana;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        margin-bottom: 10px black;
+        border-color: black;
+    }
+    #heart{
+        position: absolute;
+        top:800px;
+        left: 85px;
+        
+    }
+    #like{
+        position: absolute;
+        top:800px;
+        left: 40px;
+    }
+    #light{
+        position: absolute;
+        top:800px;
+        left: 60px;
+    }
+    #text5{
+        position: absolute;
+        top:784px;
+        left: 110px;
+    }
+    #like1{
+        position: absolute;
+        top:850px;
+        left: 30px;
+    }
+    .btn{
+        border-style: none;
+        background: none;
+    }
+    #like2{
+        position: absolute;
+        top:885px;
+        left: 35px;
+    }
+    #comments1{
+        position: absolute;
+        top:860px;
+        left: 250px;
+    }
+    #comments2{
+        position: absolute;
+        top:885px;
+        left: 244px;
+    }
+    #share1{
+        position: absolute;
+        top:860px;
+        left: 490px;
+    }
+    #share2{
+        position: absolute;
+        top:890px;
+        left: 490px;
+    }
+    #send1{
+        position: absolute;
+        top:868px;
+        left: 700px;
+    }
+    #send2{
+        position: absolute;
+        top:895px;
+        left: 710px;
+    }
+    #column3{
+        left:50px;
+        top: 980px;
+        width: 100%;
+        height: 200px;
+        border-radius: 3px/3px;
+        font-size: 25px;
+        color:black;
+        font-family: Verdana;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        margin-bottom: 10px black;
+        border-color: black;
+    }
+    #text6{
+        position: absolute;
+        top:784px;
+        left: 780px;
+    }
+    .newuser{
+        position: absolute;
+        top: 1050px;
+        left: 40px;
+    }
+    #column4{
+        left:40px;
+        top: 1180px;
+        width: 100%;
+        height: 200px;
+        border-radius: 3px/3px;
+        font-size: 30px;
+        color:black;
+        font-family: Verdana;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        margin-bottom: 10px black;
+        border-color: black;
+    }
+    #homearea{
+        top: 1360px;
+        left:40px;
+        height: 80px;
+    
+    }
+    #networkarea{
+        top: 0px;
+        left:160px;
+        height: 85px;
+        
+    }
+    #jobsarea{
+        top: 0px;
+        left:700px;
+        height: 0px;
+       
+    }
+    #postarea{
+        top: 0px;
+        left:340px;
+        height: 35px;
+        
+    }
+    #notificationarea{
+        top: 0px;
+        left:530px;
+        height: 35px;
+    
+    }
+    .footer{
+        position: absolute;
+        top: 2000px;
+        height: 20%;
+        width: 100%;
+        background: white;
+        
+      
+    }
+}

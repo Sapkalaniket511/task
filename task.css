@@ -1,0 +1,351 @@
+body{
+    background:linear-gradient(to bottom right,white,white);
+    height: 400px;
+}
+.header1{
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    background: #162692;
+    top:0;
+    left: 0;
+    z-index: 7;
+}
+#img1{
+    left: 180px;
+    height: 40px;
+    top: 5px;
+}
+#searcharea{
+    top: 15px;
+    left:240px;
+    height: 40px;
+}
+#searchbox{
+    width: 180px;
+    height: 35px;
+    background: white;
+padding: 0;
+margin: 0;
+}
+
+#homearea{
+    top: 17px;
+    left:490px;
+    height: 40px;
+
+}
+#networkarea{
+    top: 6px;
+    left:560px;
+    height: 35px;
+    
+}
+#jobsarea{
+    top: 17px;
+    left:660px;
+    height: 35px;
+   
+}
+#chatarea{
+    top: 17px;
+    left:740px;
+    height: 35px;
+    
+}
+#notificationarea{
+    top: 17px;
+    left:820px;
+    height: 35px;
+
+}
+#profilearea{
+    top: 17px;
+    left:900px;
+    height: 35px;
+ 
+}
+#menuarea{
+    top: 17px;
+    left:980px;
+    height: 35px;
+  
+}
+#work{
+    top: 27px;
+    left:980px;
+    height: 0px;
+   
+}
+#freearea{
+    top: 0px;
+    left:1040px;
+    height: 35px;
+align-items: center;
+color: rgba(192, 192, 44, 0.904);
+}
+.post1{
+    top:70px;
+    left: 400px;
+    position: absolute;
+    width: 600px;
+    height: 480px;
+    background: white;
+    box-shadow:0 3px 8px rgba(0,0,0,.25);
+   box-sizing: border-box;
+}
+.post2{
+    top:560px;
+    left: 400px;
+    position: absolute;
+    width: 600px;
+    height: 220px;
+    box-shadow:0 3px 8px rgba(0,0,0,.25);
+}
+.post{
+    top: 70px;
+    left:400px;
+    position: absolute;
+    width: 600px;
+    height: 210px;
+
+}
+#column{
+    left:0px;
+    top: 0px;
+    width: 580px;
+    height: 200px;
+    border-radius: 3px/3px;
+    font-size: 13px;
+    color:black;
+    font-family: Verdana;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px black;
+    border-color: black;
+}
+.bold{
+font-style: normal;
+}
+.img2{
+    left: 10px;
+    top:9px;
+    position: absolute;
+}
+.postdots{
+    top: 20px;
+    left:560px;
+    position: absolute;
+    width: 600px;
+    height: 210px;
+}
+.newpost{
+    top: 55px;
+left: 10px;
+    width: 560px;
+    position: absolute;
+    height: 370px;
+    border-radius: 3px/3px;
+   background: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    
+}
+.text{
+    top: 0px;
+    left:60px;
+    position: absolute;
+    width: 600px;
+    height: 210px;
+    font-size: 12px;
+}
+.follow{
+    top: 75px;
+    left:500px;
+    position: absolute;
+    width: 600px;
+    height: 210px;
+    font-size: 12px;
+}
+.btn{
+    color: blue;
+    border-style: none;
+    background: none;
+    font: bold;
+    font-size: 15px;
+}
+span {
+    display: inline-block;
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
+.text2{
+    top: 120px;
+    left:20px;
+    position: absolute;
+    width: 700px;
+    height: 210px;
+    font-size: 15px;
+    
+}
+.box{
+    top:310px;
+    left: 0px;
+    position: absolute;
+    width: 600px;
+    height: 80px;
+    box-shadow:0 3px 8px rgba(0,0,0,.25);
+    text-align: center;
+    background-color: rgb(109, 131, 54);
+    
+}
+.font1{
+    position: absolute;
+    top:10px;
+    text-align: center;
+    align-content: center;
+    left:135px;
+
+}
+.reshape {
+    top: 160px;
+    position: absolute;
+     width:450px;
+     height:150px;
+    left: 72px;  
+ 
+}
+#heart{
+    position: absolute;
+    top:400px;
+    left: 48px;
+}
+#like{
+    position: absolute;
+    top:400px;
+    left: 2px;
+}
+#light{
+    position: absolute;
+    top:400px;
+    left: 24px;
+}
+#text5{
+    position: absolute;
+    top:383px;
+    left: 68px;
+}
+#like1{
+    position: absolute;
+    top:430px;
+    left: 15px;
+}
+.btn{
+    border-style: none;
+    background: none;
+}
+#like2{
+    position: absolute;
+    top:420px;
+    left: 60px;
+}
+#comments1{
+    position: absolute;
+    top:433px;
+    left: 100px;
+}
+#comments2{
+    position: absolute;
+    top:418px;
+    left: 145px;
+}
+#share1{
+    position: absolute;
+    top:430px;
+    left: 235px;
+}
+#share2{
+    position: absolute;
+    top:420px;
+    left: 280px;
+}
+#send1{
+    position: absolute;
+    top:435px;
+    left: 330px;
+}
+#send2{
+    position: absolute;
+    top:420px;
+    left: 380px;
+}
+.btn:focus{
+    background-color: darkblue;
+}
+.newuser{
+    position: absolute;
+    top: 490px;
+    left: 0px;
+}
+.newdots{
+top: 500px;
+left: 550px;
+    position: absolute;
+}
+.post6{
+    position: absolute;
+    top:540px;
+}
+.like12{
+    position: absolute;
+    top: 600px;
+}
+.com{
+    position: absolute;
+    top: 583px;
+    left:18px;
+}
+#like3{
+    position: absolute;
+    top:650px;
+    left: 0px;
+}
+#like4{
+    position: absolute;
+    top:640px;
+    left: 50px;
+}
+#comment3{
+    position: absolute;
+    top:655px;
+    left: 100px;
+}
+#comment4{
+    position: absolute;
+    top:640px;
+    left: 150px;
+}
+#share3{
+    position: absolute;
+    top:653px;
+    left: 248px;
+}
+#share4{
+    position: absolute;
+    top:643px;
+    left: 295px;
+}
+#send3{
+    position: absolute;
+    top:657px;
+    left: 350px;
+}
+#send4{
+    position: absolute;
+    top:645px;
+    left: 400px;
+}
